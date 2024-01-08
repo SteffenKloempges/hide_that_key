@@ -1,1 +1,2 @@
-console.log(API_KEY);
+import KEY from './key.js';
+console.log(KEY);
